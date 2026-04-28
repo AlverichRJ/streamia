@@ -1,0 +1,1 @@
+# STREAMIA\n\nProyecto gestionado por Manus para AlverichRJ.\n\n## Configuración Local\nPara trabajar en este proyecto en tu VS Code local:\n1. Clona el repositorio.\n2. Realiza tus cambios.\n3. Ejecuta 'git pull' para recibir mis actualizaciones.
